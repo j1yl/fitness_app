@@ -14,7 +14,7 @@ This is a fitness application created by California State University, Fullerton 
 ## Team Members
 - [Dominic Harrington](https://github.com/drharrington)
 - [Joe Lee](https://github.com/j1yl)
-- Member 3
+- [Alexander Koo] (https://github.com/a1exanderkoo)
 - Member 4
 
 ## License
